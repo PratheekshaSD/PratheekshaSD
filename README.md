@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://media1.tenor.com/m/ZgQqqIZjYpgAAAAd/penguin-fall.gif" width="120"/>
+</p>
 <h1 align="center">hey, I'm Pratheeksha 👋</h1>
 
 <p align="center">
