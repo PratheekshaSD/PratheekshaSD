@@ -45,13 +45,6 @@
 ### 📊 github stats
 
 ---
-
-### 📈 contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PratheekshaSD&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PratheekshaSD&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekshaSD&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
