@@ -41,14 +41,6 @@
 | 🤖 [FinSync](https://github.com/PratheekshaSD/FinSync) | AI reconciliation agent for Razorpay payments vs bank statements | Python · Gemini AI |
 
 ---
-### 📊 github stats
-
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratheekshaSD&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekshaSD&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
----
 
 ### 📬 find me
 
