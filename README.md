@@ -16,7 +16,7 @@
 - 🛠️ I build **data pipelines** — the kind that actually handle failures gracefully
 - 🌊 currently deep in **Airflow, PostgreSQL, Docker** and loving it
 - 🧠 ECE student who went full SWE — and never looking back
-- 💼 actively looking for **internships with PPO potential**
+- 💼 actively looking for **internships and to work with real data infrastructure**
 - ⚡ fun fact: I debug better at night
 
 ---
@@ -41,7 +41,6 @@
 | 🤖 [FinSync](https://github.com/PratheekshaSD/FinSync) | AI reconciliation agent for Razorpay payments vs bank statements | Python · Gemini AI |
 
 ---
-
 ### 📊 github stats
 
 ---
@@ -49,7 +48,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=PratheekshaSD&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratheekshaSD&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
 </p>
-
 ---
 
 ### 📬 find me
